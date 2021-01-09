@@ -37,7 +37,7 @@ class user
 };
 void buy_new()
 {
- char ans[7],s1[4]="Yes";
+ char ans[7],s1[4]="Yes"; 
  cout<<"Kindly apply filters wrt either price or company to see info"<<endl;
  cout<<"Atleast one of them is mandatory"<<endl;
  cout<<"Want to apply filters wrt to range??(Yes/No)"<<endl;
@@ -60,12 +60,12 @@ void buy_new()
  {
   cout<<"Which company do you want??"<<endl;
   cout<<"Press 1 for KIA "<<endl;
-  cout<<"Press 2 for Discovery"<<endl;
+  cout<<"Press 2 for Land Rover"<<endl;
   cout<<"Press 3 for Ford"<<endl;
   cout<<"Press 4 for Rolls Royce"<<endl;
-  cout<<"Press 5 MG Hectar"<<endl;
-  cout<<"Press 6 Koeningsen ager"<<endl;
-  cout<<"Press 7 Vulcan"<<endl;
+  cout<<"Press 5 MG Motors"<<endl;
+  cout<<"Press 6 Koeningsen "<<endl;
+  cout<<"Press 7 Aston Martin"<<endl;
   cout<<"Press 8 Range Rover"<<endl;
   cout<<"Press 9 Laferrari"<<endl;
   cin>>ans2;
