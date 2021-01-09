@@ -1,0 +1,23 @@
+KOENIGSEGG AGERA(RS)
+
+Manufacturer	Koenigsegg Automotive AB
+
+Body and chassis
+Class	        Sports car (S)
+Body style	2-door targa top
+Layout	        Rear mid-engine, rear-wheel-drive
+Doors	        Dihedral Synchro-Helix
+
+Powertrain
+Engine	        5.0 L (305 cu in; 5,000 cc) Koenigsegg twin-turbocharged V8
+Power output    Agera RS: 865 kW (1,176 PS; 1,160 hp) (1,000 kW (1,360 PS; 1,341 hp)
+Transmission	7-speed dual-clutch
+
+Dimensions
+Wheelbase	2,662 mm (104.8 in)
+Length	        4,293 mm (169.0 in)
+Width	        1,996 mm (78.6 in)
+Height	        1,120 mm (44.1 in)
+Curb weight	1,395 kg (3,075 lb)
+                1,295 kg (2,855 lb) dry
+Ground Clearance 100mm

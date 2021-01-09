@@ -1,0 +1,23 @@
+Ford Ecosport
+Manufacturer    Ford
+Price           ₹ 7.81 Lakhs upto ₹ 11.35 Lakhs
+Body and chassis
+Platform	Ford global B-car platform
+
+Powertrain
+Engine	 
+Petrol:         
+                995 cc EcoBoost (Fox) I3-T Ti-VCT
+                1497 cc Dragon I3 Ti-VCT
+                1499 cc Sigma I4 Ti-VCT
+                1596 cc Sigma I4 Ti-VCT
+                1999 cc Duratec I4 Ti-VCT
+Turbodiesel     1498 cc EcoBlue (Panther) I4-T
+		1499 cc Duratorq TDCi (DLD-415) I4-T
+Dimensions
+Wheelbase	2,519 mm (99.2 in)
+Length	        3,998 mm (157.4 in) (India)
+Width	        1,765 mm (69.5 in)
+Height	        1,650 mm (65 in)
+Curb weight	1,220–1,314 kg (2,690–2,897 lb)
+Ground Clearance 170mm

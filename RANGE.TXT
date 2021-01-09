@@ -1,0 +1,31 @@
+EVOQUE
+Manufacturer	Jaguar Land Rover
+Price           Rs 58.00 to 61.94 Lakh
+Body and chassis
+Body style	5-door SUV
+                3-door SUV
+                2-door convertible
+Platform	JLR D8
+
+Powertrain
+Engine	
+                2.0 L EcoBoost I4 (t/c petrol)
+                2.0 L Ingenium I4 (t/c petrol)
+                2.0 L Ingenium I4 (t/c diesel)
+                2.2 L Duratorq I4 (t/c diesel)
+Transmission	
+                6–speed Getrag M66EH50 manual
+                6-Speed Ford Aisin AW F-21 (Aisin Warner TF-81SC) automatic with CommandShift manual shift mode
+                9-speed ZF 9HP automatic
+
+Dimensions
+Wheelbase	2,660 mm (104.7 in)[3]
+Length	        
+               3-door: 4,371 mm (172.1 in)
+               5-door: 4,371 mm (172.1 in)
+Width	       1,900 mm (74.8 in)[4]
+Height	  
+               3-door: 1,605 mm (63.2 in)
+               5-door: 1,635 mm (64.4 in)
+Kerb weight    1,595–1,700 kg (3,516–3,748 lb)
+Ground Clearance 215mm

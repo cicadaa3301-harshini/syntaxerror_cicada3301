@@ -1,0 +1,20 @@
+Manufacturer	Aston Martin Lagonda Limited
+Price           16.8 crore
+
+Body and chassis
+Class	        Track day car
+Body style	2-door coupé
+Layout	        Front mid-engine, rear-wheel-drive
+Doors	        Swan
+
+Powertrain
+Engine	        7.0 L naturally-aspirated V12
+Power output	831 PS (611 kW; 820 hp)
+                575 lb⋅ft (780 N⋅m)
+Transmission	6-speed sequential
+Dimensions
+Length	        4,807 mm (189 in)
+Width	        2,063 mm (81 in)
+Height   	1,235 mm (49 in)
+Kerb weight	1,350 kg (2,976 lb)
+Ground Clearance 130mm

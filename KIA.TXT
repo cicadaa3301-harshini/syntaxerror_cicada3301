@@ -1,0 +1,23 @@
+SELTOSE
+Manufacturer	Kia Motors
+Price           Rs 9.89 lakh to Rs 16.34 lakh.
+Body and chassis
+Class	        Subcompact crossover SUV (B)
+Body style	5-door SUV
+Layout          Front-engine, front-wheel-drive
+                Front-engine, all-wheel-drive
+Platform        Hyundai-Kia New B-SUV (SP2)
+		Hyundai-Kia K2 (SP2i/SP2c)
+Related         Hyundai Kona (SP2)
+		Hyundai Creta/ix25 (SU) (SP2i/SP2c)
+Dimensions:
+Wheelbase       2,630 mm (103.5 in) (SP2)
+                2,610 mm (102.8 in) (SP2i)
+                2,650 mm (104.3 in) (SP2c)
+Length          4,370 mm (172.0 in) (SP2)
+                4,315 mm (169.9 in) (SP2i)
+                4,345 mm (171.1 in) (SP2c)
+Width	        1,800 mm (70.9 in)[10]
+Height	        1,600–1,615 mm (63.0–63.6 in) (SP2)
+                1,645 mm (64.8 in) (SP2i/SP2c)
+Ground Clearance 190mm															

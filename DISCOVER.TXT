@@ -1,0 +1,22 @@
+DISCOVERY SPORT
+Manufacturer	Jaguar Land Rover
+Price           ₹ 59.89 Lakh to ₹ 62.10 Lakh
+
+Body and chassis
+Platform	JLR D8
+
+Powertrain
+Engine          2015MY
+                2.0 L EcoBoost I4 (t/c petrol)
+                2.2 L Duratorq I4 (t/c diesel)
+                2016MY
+                2.0 L Ingenium I4 (t/c petrol)
+		2.0 L Ingenium I4 (t/c diesel)
+Dimensions
+Wheelbase	2,741 mm (107.9 in)
+Length	        4,590 mm (180.7 in)
+Width	        2,069 mm (81.5 in)
+wing mirrors folded
+Height	        1,724 mm (67.9 in)
+Kerb weight	1,744–1,839 kg (3,845–4,054 lb)
+Ground Clearance 210mm

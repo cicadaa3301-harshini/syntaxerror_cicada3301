@@ -1,0 +1,27 @@
+LA-FERRARI
+Manufacturer	Ferrari N.V.
+Price            Rs. 3.50 Crore to Rs. 7.50 Crore
+
+Body and chassis
+Class	        Sports car (S)
+Body style	
+                2-door coupé
+                2-door roadster (Aperta)
+Layout	        Rear mid-engine, rear-wheel-drive
+Doors	        
+                Butterfly doors (coupé)
+                Swan doors (Aperta)
+
+Powertrain
+Engine	        6.3 L F140FE V12
+Electric motor	1 electric motor and KERS
+Power output	708 kW (950 hp; 963 PS)
+Transmission	7-speed dual-clutch automatic
+
+Dimensions
+Wheelbase	2,650 mm (104.3 in)
+Length	        4,702 mm (185.1 in)
+Width	        1,992 mm (78.4 in)
+Height	        1,116 mm (43.9 in)
+Kerb weight	1,585 kg (3,495 lb)
+Ground clearence 145mm 

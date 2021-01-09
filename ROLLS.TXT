@@ -1,0 +1,21 @@
+PHANTHOM
+Manufacturer	Rolls-Royce Motor Cars
+Price           Rs 9.5 crores to Rs 11.5 crores(without any additional features)
+Body and chassis
+Class	        Full-size luxury car (F)
+Body style	4-door saloon
+Layout	        FR layout
+Platform	Architecture of Luxury
+Doors	        Conventional doors (front)/Coach doors (rear)
+Powertrain
+Engine	        6.75 L N74B68 twin-turbocharged V12 (petrol)
+Transmission	8-speed 8HP automatic
+Dimensions
+Wheelbase       3,552 mm (139.8 in) (SWB)
+                3,772 mm (148.5 in) (EWB)
+Length          5,762 mm (226.9 in) (SWB)
+		5,982 mm (235.5 in) (EWB)
+Width           2,018 mm (79.4 in)
+Height          1,646 mm (64.8 in) (SWB)
+		1,656 mm (65.2 in) (EWB)
+Ground Clearance 164mm

@@ -1,0 +1,23 @@
+
+NAME:-HECTARE
+Manufacturer:-    Morris Garrages(MG)
+Price:-           Rs 12.74 lakh to Rs 17.44 lakh
+Body and chassis
+Class:-	         Compact crossover SUV
+Body style:-	5-door SUV
+Layout:-        Front-engine, front-wheel-drive;
+
+Power output:- 104.5–110 kW (140–148 hp; 142–150 PS) (1.5 L petrol)
+               101 kW (135 hp; 137 PS) (1.8 L petrol)
+               125 kW (168 hp; 170 PS) (2.0 L diesel)
+Transmission:- 6-speed manual
+               5-speed automated manual
+               6-speed dual-clutch
+               CVT
+Dimensions
+Wheelbase	2,750 mm (108.3 in)
+Length	        4,655–4,695 mm (183.3–184.8 in)
+Width	        1,835 mm (72.2 in)
+Height	        1,760 mm (69.3 in)
+Curb weight	1,435–1,564 kg (3,164–3,448 lb)
+Ground Clearance 198mm
