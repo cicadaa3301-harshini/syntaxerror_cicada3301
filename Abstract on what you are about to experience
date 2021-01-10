@@ -1,0 +1,71 @@
+# Hello Everyone!!
+This is our team!!
+Cicida 3301
+Glad to see you here!!
+
+We are here with our idea to create an application software to help user get
+information about cars (which has now become the necessity nowadays for many
+of the people) that suits their necessity and budget plus can get the information
+at just one platform by just tapping some keys on their keyboards.We here try to
+give technical information about the car which is given rarely to them which is of
+keen interest to the buyer who has some technical knowledge of all those aspects.
+They try to find it on wikipedia or just google it to get some technical
+information.But you know its very time consuming.So we try to give the
+information at just one platform.With very less to no efforts.Its a platform
+where one can buy new car or second hand car or can even put his/her old car for
+sale.We try to solve out all the problems faced by buyer while buying a car in
+this application by using C++ as our language to execute the task as it is very
+common language and can be run on any platform.We have added the graphics
+of a car to make it attractive and to maintain the interest of user.Firstly we
+have asked buyer to create an I’d so that it would be easier for us to contact the
+buyer if he/she is interested in any particular car.And then stored the data in
+one file so that the user can login using his I,d.Then we asked the user for
+what purpose he is using this application:For buying second hand car or for
+buying new car or for selling the old one.If he desires to buy a new car,then we
+asked the user to apply some filters for price or the company.We have kept the
+filters to be mandatory.They can be kept optional also.Like if one desires he can
+otherwise its Ok.At present we have added two filters only we can add some
+more to the original application after collecting some more information about the
+cars and can sort them out according to no of seats,availability of sunroof
+etc.Then after asking for the filters,showed him the information that we stored
+in our “txt” files about the cars as per their desires.We have asked for one
+option in each filter part.We can ask for more options by using do while
+loop.And we can further ask the user if he is interested if yes then we can reply
+to him that we will share the information soon at their mail I’d about the
+availability of that car at most nearest place to them by first asking them for
+their location or by tracking their location using GPRS system and we will give
+information about trusted showrooms only that are connected to us so that he may
+not suffer any trouble or keep it as a premium version part.We have not added
+it as its just a prototype.If he desires to buy a second hand car we showed the
+information about the cars that are available.We have added just a little
+information about the car and honor,more information can be added to enhance
+the honesty in deal. Filters can be applied to that also like which company or
+what price range do you want??Then we asked the user whether he is interested
+or not if yes we gave user the contact no of seller.We can keep that also to the
+premium version part and can add some more personal information about the
+user like business terms with us,address,location etc.If the user is interested in
+selling his old car,we ask him to give information about the car and himself.We
+asked about little bit info but we can ask about technical details also.his address
+and some more personal information.Then as it is a well known fact that nobody
+is completely perfect.We asked the user if he desires to give us some feedback or
+remark where we are good and where there is need of improvement.It gives user
+the view that this application is more frank than others and hence is more trust
+worthy.And it gives us also the points that a common person expects from an
+application and can make it more user friendly.
+
+We can add the pictures also with the car information as look matters a lot for
+a common person and it gives the user the view that this is really the app where
+I can see all information and can take my decision easily.Its a kind of software
+which is needed by almost everyone as there comes at least one moment in our life
+where we desires to buy a car the one for which we had ever dreamed for!And
+the moment can be made more precious and sweet one by giving the information
+in one go and by giving trust worthy deals.
+Thanks for your patience!!
+
+Thanks for reading our work!!
+HAVE A NICE DAY!!
+Regards!!
+Developers
+Kanishka
+Harshini Sendhil
+Esha Singhal
